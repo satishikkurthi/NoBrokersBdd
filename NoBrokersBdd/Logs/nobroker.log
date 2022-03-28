@@ -1,0 +1,340 @@
+26-03-2022 17:37:10 INFO  Baseclass:19 - entering the phone number
+26-03-2022 17:37:10 INFO  Baseclass:19 - clicking on i have password
+26-03-2022 17:37:11 INFO  Baseclass:19 - entering the password
+26-03-2022 17:44:33 INFO  Baseclass:19 - entering the phone number
+26-03-2022 17:44:33 INFO  Baseclass:19 - clicking on i have password
+26-03-2022 17:44:36 INFO  Baseclass:19 - entering the password
+26-03-2022 17:45:08 INFO  Baseclass:19 - entering the phone number
+26-03-2022 17:45:09 INFO  Baseclass:19 - clicking on i have password
+26-03-2022 17:45:10 INFO  Baseclass:19 - entering the password
+26-03-2022 17:53:10 INFO  Baseclass:19 - entering the phone number
+26-03-2022 17:53:10 INFO  Baseclass:19 - clicking on i have password
+26-03-2022 17:53:11 INFO  Baseclass:19 - entering the password
+26-03-2022 18:04:03 INFO  Baseclass:19 - entering the phone number
+26-03-2022 18:04:04 INFO  Baseclass:19 - clicking on i have password
+26-03-2022 18:04:05 INFO  Baseclass:19 - entering the password
+26-03-2022 18:04:32 INFO  Baseclass:19 - entering the phone number
+26-03-2022 18:04:33 INFO  Baseclass:19 - clicking on i have password
+26-03-2022 18:04:34 INFO  Baseclass:19 - entering the password
+26-03-2022 18:23:25 INFO  Baseclass:19 - entering the phone number
+26-03-2022 18:23:26 INFO  Baseclass:19 - clicking on i have password
+26-03-2022 18:23:27 INFO  Baseclass:19 - entering the password
+26-03-2022 18:24:04 INFO  Baseclass:19 - entering the phone number
+26-03-2022 18:24:05 INFO  Baseclass:19 - clicking on i have password
+26-03-2022 18:24:06 INFO  Baseclass:19 - entering the password
+26-03-2022 18:58:17 INFO  Baseclass:19 - clicking on buy
+26-03-2022 18:58:19 INFO  Baseclass:19 - selecting the location dropdown
+26-03-2022 18:58:20 INFO  Baseclass:19 - selecting the location
+26-03-2022 18:58:20 INFO  Baseclass:19 - clicking on apartment type dropdown
+26-03-2022 18:58:21 INFO  Baseclass:19 - selecting the apartment types
+26-03-2022 18:58:21 INFO  Baseclass:19 - clicking on propertystatus type dropdown
+26-03-2022 18:58:23 INFO  Baseclass:19 - clicking on search
+26-03-2022 18:58:24 INFO  Baseclass:19 - sending the  information
+26-03-2022 18:58:26 INFO  Baseclass:19 - clicking on search
+26-03-2022 19:52:35 INFO  Baseclass:19 - loading the driver
+26-03-2022 19:52:35 INFO  Baseclass:19 - clicking on buy
+26-03-2022 19:52:36 INFO  Baseclass:19 - selecting the location dropdown
+26-03-2022 19:52:37 INFO  Baseclass:19 - selecting the banglore location
+26-03-2022 19:52:37 INFO  Baseclass:19 - clicking on apartment type dropdown
+26-03-2022 19:52:38 INFO  Baseclass:19 - selecting the apartment types 2BHk 3BHK
+26-03-2022 19:52:38 INFO  Baseclass:19 - clicking on propertystatus type dropdown and selecting under construction
+26-03-2022 19:52:40 INFO  Baseclass:19 - clicking on search
+26-03-2022 19:52:41 INFO  Baseclass:19 - sending the information
+26-03-2022 19:52:43 INFO  Baseclass:19 - clicking on search
+26-03-2022 19:57:12 INFO  Baseclass:19 - loading the driver
+26-03-2022 19:57:12 INFO  Baseclass:19 - clicking on buy
+26-03-2022 19:57:13 INFO  Baseclass:19 - selecting the location dropdown
+26-03-2022 19:57:15 INFO  Baseclass:19 - selecting the banglore location
+26-03-2022 19:57:15 INFO  Baseclass:19 - clicking on apartment type dropdown
+26-03-2022 19:57:16 INFO  Baseclass:19 - selecting the apartment types 2BHk 3BHK
+26-03-2022 19:57:16 INFO  Baseclass:19 - clicking on propertystatus type dropdown and selecting under construction
+26-03-2022 19:57:17 INFO  Baseclass:19 - clicking on search
+26-03-2022 19:57:18 INFO  Baseclass:19 - sending the information
+26-03-2022 19:57:21 INFO  Baseclass:19 - clicking on search
+26-03-2022 19:58:51 INFO  Baseclass:19 - loading the driver
+26-03-2022 19:58:51 INFO  Baseclass:19 - clicking on buy
+26-03-2022 19:58:52 INFO  Baseclass:19 - selecting the location dropdown
+26-03-2022 19:58:53 INFO  Baseclass:19 - selecting the banglore location
+26-03-2022 19:58:54 INFO  Baseclass:19 - clicking on apartment type dropdown
+26-03-2022 19:58:59 INFO  Baseclass:19 - selecting the apartment types 2BHk 3BHK
+26-03-2022 19:58:59 INFO  Baseclass:19 - clicking on propertystatus type dropdown and selecting under construction
+26-03-2022 19:59:00 INFO  Baseclass:19 - clicking on search
+26-03-2022 19:59:01 INFO  Baseclass:19 - sending the information
+26-03-2022 19:59:03 INFO  Baseclass:19 - clicking on search
+26-03-2022 19:59:57 INFO  Baseclass:19 - loading the driver
+26-03-2022 19:59:57 INFO  Baseclass:19 - clicking on buy
+26-03-2022 19:59:58 INFO  Baseclass:19 - selecting the location dropdown
+26-03-2022 19:59:59 INFO  Baseclass:19 - selecting the banglore location
+26-03-2022 19:59:59 INFO  Baseclass:19 - clicking on apartment type dropdown
+26-03-2022 20:00:01 INFO  Baseclass:19 - selecting the apartment types 2BHk 3BHK
+26-03-2022 20:00:01 INFO  Baseclass:19 - clicking on propertystatus type dropdown and selecting under construction
+26-03-2022 20:00:02 INFO  Baseclass:19 - clicking on search
+26-03-2022 20:00:03 INFO  Baseclass:19 - sending the information
+26-03-2022 20:00:06 INFO  Baseclass:19 - clicking on search
+26-03-2022 20:02:38 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:02:38 INFO  Baseclass:19 - clicking on buy
+26-03-2022 20:03:10 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:03:10 INFO  Baseclass:19 - clicking on buy
+26-03-2022 20:03:11 INFO  Baseclass:19 - selecting the location dropdown
+26-03-2022 20:03:12 INFO  Baseclass:19 - selecting the banglore location
+26-03-2022 20:03:12 INFO  Baseclass:19 - clicking on apartment type dropdown
+26-03-2022 20:03:13 INFO  Baseclass:19 - selecting the apartment types 2BHk 3BHK
+26-03-2022 20:03:13 INFO  Baseclass:19 - clicking on propertystatus type dropdown and selecting under construction
+26-03-2022 20:03:15 INFO  Baseclass:19 - clicking on search
+26-03-2022 20:03:16 INFO  Baseclass:19 - sending the information
+26-03-2022 20:03:18 INFO  Baseclass:19 - clicking on search
+26-03-2022 20:34:26 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:34:26 INFO  Baseclass:19 - clicking on buy
+26-03-2022 20:34:27 INFO  Baseclass:19 - selecting the location dropdown
+26-03-2022 20:34:28 INFO  Baseclass:19 - selecting the banglore location
+26-03-2022 20:34:50 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:34:50 INFO  Baseclass:19 - clicking on menu
+26-03-2022 20:34:50 INFO  Baseclass:19 - clicking on buyer plans
+26-03-2022 20:36:55 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:36:55 INFO  Baseclass:19 - clicking on buy
+26-03-2022 20:36:57 INFO  Baseclass:19 - selecting the location dropdown
+26-03-2022 20:36:58 INFO  Baseclass:19 - selecting the banglore location
+26-03-2022 20:38:39 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:38:39 INFO  Baseclass:19 - clicking on buy
+26-03-2022 20:38:40 INFO  Baseclass:19 - selecting the location dropdown
+26-03-2022 20:38:46 INFO  Baseclass:19 - selecting the banglore location
+26-03-2022 20:41:01 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:41:01 INFO  Baseclass:19 - clicking on buy
+26-03-2022 20:41:02 INFO  Baseclass:19 - selecting the location dropdown
+26-03-2022 20:41:03 INFO  Baseclass:19 - selecting the banglore location
+26-03-2022 20:41:03 INFO  Baseclass:19 - clicking on apartment type dropdown
+26-03-2022 20:41:05 INFO  Baseclass:19 - selecting the apartment types 2BHk 3BHK
+26-03-2022 20:41:05 INFO  Baseclass:19 - clicking on propertystatus type dropdown and selecting under construction
+26-03-2022 20:41:06 INFO  Baseclass:19 - clicking on search
+26-03-2022 20:41:07 INFO  Baseclass:19 - sending the information
+26-03-2022 20:41:09 INFO  Baseclass:19 - clicking on search
+26-03-2022 20:41:10 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:42:49 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:42:49 INFO  Baseclass:19 - clicking on menu
+26-03-2022 20:42:49 INFO  Baseclass:19 - clicking on buyer plans
+26-03-2022 20:42:53 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:43:13 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:43:14 INFO  Baseclass:19 - entering the phone number
+26-03-2022 20:43:15 INFO  Baseclass:19 - clicking on i have password
+26-03-2022 20:43:16 INFO  Baseclass:19 - entering the password
+26-03-2022 20:43:17 INFO  Baseclass:19 - clicking on sign in
+26-03-2022 20:43:17 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:43:38 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:43:38 INFO  Baseclass:19 - clicking on menu
+26-03-2022 20:43:38 INFO  Baseclass:19 - clicking on ownerplans
+26-03-2022 20:43:44 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:43:56 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:43:56 INFO  Baseclass:19 - clicking on login icon
+26-03-2022 20:43:58 INFO  Baseclass:19 - entering the phone number
+26-03-2022 20:43:58 INFO  Baseclass:19 - clicking on i have password
+26-03-2022 20:43:59 INFO  Baseclass:19 - entering the password
+26-03-2022 20:44:00 INFO  Baseclass:19 - clicking on sign in
+26-03-2022 20:44:22 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:44:22 INFO  Baseclass:19 - clicking on menu
+26-03-2022 20:44:22 INFO  Baseclass:19 - clicking on painting option
+26-03-2022 20:44:29 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:44:46 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:44:46 INFO  Baseclass:19 - clicking on menu
+26-03-2022 20:44:46 INFO  Baseclass:19 - clicking on refer and earn
+26-03-2022 20:44:54 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:45:23 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:45:23 INFO  Baseclass:19 - clicking on menu
+26-03-2022 20:45:23 INFO  Baseclass:19 - clicking on rentalagreement
+26-03-2022 20:48:21 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:48:21 INFO  Baseclass:19 - clicking on buy
+26-03-2022 20:48:22 INFO  Baseclass:19 - selecting the location dropdown
+26-03-2022 20:48:23 INFO  Baseclass:19 - selecting the banglore location
+26-03-2022 20:48:23 INFO  Baseclass:19 - clicking on apartment type dropdown
+26-03-2022 20:48:29 INFO  Baseclass:19 - selecting the apartment types 2BHk 3BHK
+26-03-2022 20:48:29 INFO  Baseclass:19 - clicking on propertystatus type dropdown and selecting under construction
+26-03-2022 20:48:30 INFO  Baseclass:19 - clicking on search
+26-03-2022 20:48:32 INFO  Baseclass:19 - sending the information
+26-03-2022 20:48:36 INFO  Baseclass:19 - clicking on search
+26-03-2022 20:48:37 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:48:47 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:48:47 INFO  Baseclass:19 - clicking on menu
+26-03-2022 20:48:47 INFO  Baseclass:19 - clicking on buyer plans
+26-03-2022 20:48:54 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:49:17 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:49:18 INFO  Baseclass:19 - entering the phone number
+26-03-2022 20:49:19 INFO  Baseclass:19 - clicking on i have password
+26-03-2022 20:49:20 INFO  Baseclass:19 - entering the password
+26-03-2022 20:49:21 INFO  Baseclass:19 - clicking on sign in
+26-03-2022 20:49:21 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:49:48 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:49:48 INFO  Baseclass:19 - clicking on menu
+26-03-2022 20:49:48 INFO  Baseclass:19 - clicking on ownerplans
+26-03-2022 20:49:57 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:50:19 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:50:19 INFO  Baseclass:19 - clicking on login icon
+26-03-2022 20:50:20 INFO  Baseclass:19 - entering the phone number
+26-03-2022 20:50:21 INFO  Baseclass:19 - clicking on i have password
+26-03-2022 20:50:22 INFO  Baseclass:19 - entering the password
+26-03-2022 20:50:24 INFO  Baseclass:19 - clicking on sign in
+26-03-2022 20:50:26 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:50:50 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:50:50 INFO  Baseclass:19 - clicking on menu
+26-03-2022 20:50:50 INFO  Baseclass:19 - clicking on painting option
+26-03-2022 20:50:58 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:51:19 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:51:19 INFO  Baseclass:19 - clicking on menu
+26-03-2022 20:51:19 INFO  Baseclass:19 - clicking on refer and earn
+26-03-2022 20:51:25 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:51:58 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:51:58 INFO  Baseclass:19 - clicking on menu
+26-03-2022 20:51:58 INFO  Baseclass:19 - clicking on rentalagreement
+26-03-2022 20:52:07 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:53:38 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:53:38 INFO  Baseclass:19 - clicking on buy
+26-03-2022 20:53:40 INFO  Baseclass:19 - selecting the location dropdown
+26-03-2022 20:53:41 INFO  Baseclass:19 - selecting the banglore location
+26-03-2022 20:53:41 INFO  Baseclass:19 - clicking on apartment type dropdown
+26-03-2022 20:53:43 INFO  Baseclass:19 - selecting the apartment types 2BHk 3BHK
+26-03-2022 20:53:44 INFO  Baseclass:19 - clicking on propertystatus type dropdown and selecting under construction
+26-03-2022 20:53:45 INFO  Baseclass:19 - clicking on search
+26-03-2022 20:53:46 INFO  Baseclass:19 - sending the information
+26-03-2022 20:53:48 INFO  Baseclass:19 - clicking on search
+26-03-2022 20:53:49 INFO  Baseclass:19 - taking screenshot
+26-03-2022 20:54:12 INFO  Baseclass:19 - loading the driver
+26-03-2022 20:54:12 INFO  Baseclass:19 - clicking on menu
+26-03-2022 20:54:12 INFO  Baseclass:19 - clicking on buyer plans
+26-03-2022 20:54:28 INFO  Baseclass:19 - taking screenshot
+26-03-2022 21:02:40 INFO  Baseclass:19 - loading the driver
+26-03-2022 21:02:40 INFO  Baseclass:19 - clicking on buy
+26-03-2022 21:02:42 INFO  Baseclass:19 - selecting the location dropdown
+26-03-2022 21:02:44 INFO  Baseclass:19 - selecting the banglore location
+26-03-2022 21:02:46 INFO  Baseclass:19 - clicking on apartment type dropdown
+26-03-2022 21:02:47 INFO  Baseclass:19 - selecting the apartment types 2BHk 3BHK
+26-03-2022 21:02:48 INFO  Baseclass:19 - clicking on propertystatus type dropdown and selecting under construction
+26-03-2022 21:02:49 INFO  Baseclass:19 - clicking on search
+26-03-2022 21:02:50 INFO  Baseclass:19 - sending the information
+26-03-2022 21:17:29 INFO  Baseclass:19 - loading the driver
+26-03-2022 21:17:29 INFO  Baseclass:19 - clicking on buy
+26-03-2022 21:17:30 INFO  Baseclass:19 - selecting the location dropdown
+26-03-2022 21:17:31 INFO  Baseclass:19 - selecting the banglore location
+26-03-2022 21:17:31 INFO  Baseclass:19 - clicking on apartment type dropdown
+26-03-2022 21:17:33 INFO  Baseclass:19 - selecting the apartment types 2BHk 3BHK
+26-03-2022 21:17:33 INFO  Baseclass:19 - clicking on propertystatus type dropdown and selecting under construction
+26-03-2022 21:17:34 INFO  Baseclass:19 - clicking on search
+26-03-2022 21:17:35 INFO  Baseclass:19 - sending the information
+26-03-2022 21:17:38 INFO  Baseclass:19 - clicking on search
+26-03-2022 21:17:39 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:35:49 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:35:49 INFO  Baseclass:19 - clicking on buy
+27-03-2022 11:35:50 INFO  Baseclass:19 - selecting the location dropdown
+27-03-2022 11:35:52 INFO  Baseclass:19 - selecting the banglore location
+27-03-2022 11:35:52 INFO  Baseclass:19 - clicking on apartment type dropdown
+27-03-2022 11:35:56 INFO  Baseclass:19 - selecting the apartment types 2BHk 3BHK
+27-03-2022 11:35:56 INFO  Baseclass:19 - clicking on propertystatus type dropdown and selecting under construction
+27-03-2022 11:35:58 INFO  Baseclass:19 - clicking on search
+27-03-2022 11:35:59 INFO  Baseclass:19 - sending the information
+27-03-2022 11:36:01 INFO  Baseclass:19 - clicking on search
+27-03-2022 11:36:02 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:36:15 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:36:15 INFO  Baseclass:19 - clicking on menu
+27-03-2022 11:36:15 INFO  Baseclass:19 - clicking on buyer plans
+27-03-2022 11:36:20 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:36:33 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:36:34 INFO  Baseclass:19 - entering the phone number
+27-03-2022 11:36:34 INFO  Baseclass:19 - clicking on i have password
+27-03-2022 11:36:35 INFO  Baseclass:19 - entering the password
+27-03-2022 11:36:37 INFO  Baseclass:19 - clicking on sign in
+27-03-2022 11:36:37 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:36:49 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:36:49 INFO  Baseclass:19 - clicking on menu
+27-03-2022 11:36:49 INFO  Baseclass:19 - clicking on ownerplans
+27-03-2022 11:36:54 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:37:03 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:37:03 INFO  Baseclass:19 - clicking on login icon
+27-03-2022 11:37:05 INFO  Baseclass:19 - entering the phone number
+27-03-2022 11:37:05 INFO  Baseclass:19 - clicking on i have password
+27-03-2022 11:37:06 INFO  Baseclass:19 - entering the password
+27-03-2022 11:37:08 INFO  Baseclass:19 - clicking on sign in
+27-03-2022 11:37:10 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:37:19 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:37:19 INFO  Baseclass:19 - clicking on menu
+27-03-2022 11:37:19 INFO  Baseclass:19 - clicking on painting option
+27-03-2022 11:37:25 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:37:34 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:37:34 INFO  Baseclass:19 - clicking on menu
+27-03-2022 11:37:34 INFO  Baseclass:19 - clicking on refer and earn
+27-03-2022 11:37:41 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:37:50 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:37:50 INFO  Baseclass:19 - clicking on menu
+27-03-2022 11:37:50 INFO  Baseclass:19 - clicking on rentalagreement
+27-03-2022 11:37:59 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:47:23 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:47:23 INFO  Baseclass:19 - clicking on buy
+27-03-2022 11:47:25 INFO  Baseclass:19 - selecting the location dropdown
+27-03-2022 11:47:26 INFO  Baseclass:19 - selecting the location
+27-03-2022 11:47:26 INFO  Baseclass:19 - clicking on apartment type dropdown
+27-03-2022 11:47:28 INFO  Baseclass:19 - selecting the apartment types
+27-03-2022 11:47:28 INFO  Baseclass:19 - clicking on propertystatus type dropdown
+27-03-2022 11:47:29 INFO  Baseclass:19 - clicking on search
+27-03-2022 11:47:30 INFO  Baseclass:19 - sending the  information
+27-03-2022 11:47:33 INFO  Baseclass:19 - clicking on search
+27-03-2022 11:48:44 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:48:44 INFO  Baseclass:19 - clicking on buy
+27-03-2022 11:48:45 INFO  Baseclass:19 - selecting the location dropdown
+27-03-2022 11:48:46 INFO  Baseclass:19 - selecting the banglore location
+27-03-2022 11:48:46 INFO  Baseclass:19 - clicking on apartment type dropdown
+27-03-2022 11:48:47 INFO  Baseclass:19 - selecting the apartment types 2BHk 3BHK
+27-03-2022 11:48:47 INFO  Baseclass:19 - clicking on propertystatus type dropdown and selecting under construction
+27-03-2022 11:48:49 INFO  Baseclass:19 - clicking on search
+27-03-2022 11:48:50 INFO  Baseclass:19 - sending the information
+27-03-2022 11:48:52 INFO  Baseclass:19 - clicking on search
+27-03-2022 11:48:53 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:49:13 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:49:13 INFO  Baseclass:19 - clicking on buy
+27-03-2022 11:49:14 INFO  Baseclass:19 - selecting the location dropdown
+27-03-2022 11:49:15 INFO  Baseclass:19 - selecting the location
+27-03-2022 11:49:15 INFO  Baseclass:19 - clicking on apartment type dropdown
+27-03-2022 11:49:16 INFO  Baseclass:19 - selecting the apartment types
+27-03-2022 11:49:16 INFO  Baseclass:19 - clicking on propertystatus type dropdown
+27-03-2022 11:49:18 INFO  Baseclass:19 - clicking on search
+27-03-2022 11:49:20 INFO  Baseclass:19 - sending the  information
+27-03-2022 11:49:23 INFO  Baseclass:19 - clicking on search
+27-03-2022 11:49:39 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:49:39 INFO  Baseclass:19 - clicking on menu
+27-03-2022 11:49:39 INFO  Baseclass:19 - clicking on buyer plans
+27-03-2022 11:49:44 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:49:59 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:50:01 INFO  Baseclass:19 - entering the phone number
+27-03-2022 11:50:01 INFO  Baseclass:19 - clicking on i have password
+27-03-2022 11:50:02 INFO  Baseclass:19 - entering the password
+27-03-2022 11:50:03 INFO  Baseclass:19 - clicking on sign in
+27-03-2022 11:50:03 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:50:36 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:50:36 INFO  Baseclass:19 - clicking on menu
+27-03-2022 11:50:36 INFO  Baseclass:19 - clicking on ownerplans
+27-03-2022 11:50:43 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:50:58 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:50:58 INFO  Baseclass:19 - clicking on login icon
+27-03-2022 11:50:59 INFO  Baseclass:19 - entering the phone number
+27-03-2022 11:50:59 INFO  Baseclass:19 - clicking on i have password
+27-03-2022 11:51:01 INFO  Baseclass:19 - entering the password
+27-03-2022 11:51:02 INFO  Baseclass:19 - clicking on sign in
+27-03-2022 11:51:04 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:51:14 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:51:14 INFO  Baseclass:19 - clicking on menu
+27-03-2022 11:51:14 INFO  Baseclass:19 - clicking on painting option
+27-03-2022 11:51:20 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:51:29 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:51:29 INFO  Baseclass:19 - clicking on menu
+27-03-2022 11:51:29 INFO  Baseclass:19 - clicking on refer and earn
+27-03-2022 11:51:35 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:51:57 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:51:57 INFO  Baseclass:19 - clicking on menu
+27-03-2022 11:51:57 INFO  Baseclass:19 - clicking on rentalagreement
+27-03-2022 11:52:04 INFO  Baseclass:19 - taking screenshot
+27-03-2022 11:52:56 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:54:09 INFO  Baseclass:19 - loading the driver
+27-03-2022 11:54:09 INFO  Baseclass:19 - clicking on buy
+27-03-2022 11:54:10 INFO  Baseclass:19 - selecting the location dropdown
+27-03-2022 11:54:11 INFO  Baseclass:19 - selecting the location
+27-03-2022 11:54:11 INFO  Baseclass:19 - clicking on apartment type dropdown
+27-03-2022 11:54:12 INFO  Baseclass:19 - selecting the apartment types
+27-03-2022 11:54:12 INFO  Baseclass:19 - clicking on propertystatus type dropdown
+27-03-2022 11:54:14 INFO  Baseclass:19 - clicking on search
+27-03-2022 11:54:15 INFO  Baseclass:19 - sending the  information
+27-03-2022 11:54:17 INFO  Baseclass:19 - clicking on search
